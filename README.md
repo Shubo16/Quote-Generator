@@ -175,8 +175,6 @@ quoteBtn.addEventListener("click", randomQuote);
 
 5.  Continuous check for speaking state
 
-- 
-
 ```jsx
 /* variables declared */
 const quoteText = document.querySelector(".quote"),
